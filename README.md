@@ -41,23 +41,6 @@ This repository contains a comprehensive Python script for analyzing YouTube com
 - `sqlalchemy`
 - `plotly`
 
-## How to use
-
-    1. Setup:
-
-        - Ensure all required libraries are installed.
-          Use pip install for any missing packages.
-        - Place the CSV files in the specified directory.
-
-    2.  Running the Script:
-
-        - Execute the script to perform data analysis.
-          The script will read the comments, perform sentiment and emoji
-          analysis, generate visualizations, and export the data.
-    3. Visualization:
-
-        - Review the generated word clouds and interactive bar charts to gain 
-          insights into the comment data.
 ## Conclusion
 
 This YouTube data analysis script is a powerful tool for understanding user sentiments and trends in YouTube comments. By leveraging various Python libraries, it provides a comprehensive analysis and visualization workflow, making it easier to derive meaningful insights from large datasets.
